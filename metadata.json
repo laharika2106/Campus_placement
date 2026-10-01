@@ -1,0 +1,6 @@
+{
+  "name": "AI Campus Placement Assistant",
+  "description": "Upload your resume and profile information to discover suitable job opportunities, identify skill gaps, and prepare for placement interviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
